@@ -7,5 +7,5 @@ de la asignatura Herramientas de Ingeniería de Software - 2026A.
 
 ## Integrantes
 
-- Carlos Moreno
-- Janer Bustillo
+- Carlos Moreno.
+- Janer Bustillo.

@@ -9,3 +9,5 @@ de la asignatura Herramientas de Ingeniería de Software - 2026A.
 
 - Carlos Moreno.
 - Janer Bustillo.
+## Estado del Proyecto
+Proyecto en desarrollo activo - Version 1.0
